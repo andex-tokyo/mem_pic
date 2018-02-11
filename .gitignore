@@ -1,0 +1,7 @@
+.c9/
+mem_pic/
+mem_pic.zip
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
